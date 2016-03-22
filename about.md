@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The goal of this proposed [Google Summer of Code](https://developers.google.com/open-source/gsoc/) project is to write a [Mailman 3](http://wiki.list.org/Mailman3) plugin that enables
+the listserver to send and receive PGP-signed and -encrypted mail.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+There will be more content here if my proposal gets accepted.
