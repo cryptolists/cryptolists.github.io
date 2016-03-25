@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'GSoC Proposal'
 categories: gsoc
 ---
