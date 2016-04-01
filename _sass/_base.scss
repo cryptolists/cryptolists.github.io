@@ -204,3 +204,16 @@ pre {
         }
     }
 }
+
+/**
+ * Tables
+ */
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+td, th {
+    border: 1px solid $grey-color-light;
+    padding: 7px 15px;
+}
