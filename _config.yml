@@ -7,14 +7,20 @@
 
 # Site settings
 title: "GSoC: PGP-encrypted lists"
-# email: 
+author: Jonax
+email: "jonax at openmailbox dot org"
 description: > # this means to ignore newlines until "baseurl:"
   This will serve as my GSoC 2016 project blog if my proposal gets accepted.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cryptolists.github.io"
 github_username:  cryptolists
+gitlab_username: jonax
 timezone: UTC
 encoding: utf-8
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+gems:
+   - jekyll-feed

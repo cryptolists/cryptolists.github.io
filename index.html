@@ -14,6 +14,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+	<div>{{ post.content | strip_html | split:'.' | first }}<a href='{{ post.url | prepend: site.baseurl }}'>&hellip;</a></div>
       </li>
     {% endfor %}
   </ul>
